@@ -1,2 +1,2 @@
-# Alfred Workflows
-Alfred workflows for automating simple tasks.
+# Alfred Config
+Alfred configs and workflows for automating simple tasks.
